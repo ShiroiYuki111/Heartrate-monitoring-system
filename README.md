@@ -12,7 +12,6 @@ A beautiful, modern desktop application for simulating and visualizing heart rat
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technical Details](#technical-details)
 - [Customization](#customization)
@@ -53,35 +52,6 @@ Perfect for:
 - 💓 **Heartbeat Animation** - Visual pulse indicator synchronized with BPM
 - 🎯 **Momentum-based Simulation** - Realistic heart rate fluctuations
 - 📱 **Responsive Design** - Adapts to different screen sizes
-
----
-
-## 🚀 Installation
-
-### Prerequisites
-
-- **Python 3.8 or higher**
-- **pip** package manager
-
-### Setup Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/heart-rate-monitor.git
-   cd heart-rate-monitor
-   ```
-
-2. **Install Flet:**
-   ```bash
-   pip install flet
-   ```
-
-3. **Run the application:**
-   ```bash
-   python project2.py
-   ```
-
-That's it! The app will launch in a new window.
 
 ---
 
