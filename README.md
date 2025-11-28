@@ -372,9 +372,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+  Regan Dangol
+- GitHub: https://github.com/ShiroiYuki111
+- Email: Regan1543@gmail.com
 
 ---
 
@@ -402,8 +402,12 @@ SOFTWARE.
 ---
 
 ## 📸 Screenshots
+<img width="1249" height="667" alt="image" src="https://github.com/user-attachments/assets/a1500e36-6593-4eba-b0be-f67583d9d32d" />
+<img width="1255" height="762" alt="image" src="https://github.com/user-attachments/assets/0b21ebe7-7a44-498f-9c62-78046e8828ac" />
+<img width="1255" height="762" alt="image" src="https://github.com/user-attachments/assets/31ffabb5-b899-45b4-a441-014be69fe93a" />
 
-> **Note:** Add screenshots of your app here!
+
+
 
 ```markdown
 ![Profile Screen](screenshots/profile.png)
